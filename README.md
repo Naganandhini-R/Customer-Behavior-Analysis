@@ -63,11 +63,11 @@ Retail / E-commerce transactional dataset containing customer purchase details s
 
 ## 📊 Dashboard Visualizations
 
-### Customer & Regional Analysis
-![Customer Revenue Analysis](Dashboard/Customer_Analysi_Revenue.png)
+### Customer & Revenue Analysis Dashboard
+![Customer Revenue Analysis](Dashboard/01_Customer_Analysis_Revenue.png)
 
 ### Best & Worst Performing Categories
-![Best vs Worst Products](Dashboard/Best-Worst.png)
+![Best vs Worst Products](Dashboard/02_Best-Worst.png)
 
 ---
 
