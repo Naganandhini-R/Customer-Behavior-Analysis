@@ -61,6 +61,16 @@ Retail / E-commerce transactional dataset containing customer purchase details s
 
 ---
 
+## 📊 Dashboard Visualizations
+
+### Customer & Regional Analysis
+![Customer Revenue Analysis](Dashboard/Customer_Analysi_Revenue.png)
+
+### Best & Worst Performing Categories
+![Best vs Worst Products](Dashboard/Best-Worst.png)
+
+---
+
 ## 📌 Key Insights
 
 - Electronics category contributes nearly half of total revenue  
